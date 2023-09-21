@@ -12,3 +12,5 @@ para este ejemplo se utilizara el gestor de bases de datos[SQLITE3](https://sqli
 |no.|campo|tipo|resticciones|descripcion|
 |--|--|--|--|--|
 |1|id_contacto|int|PRIMARY|Llave primaria de la tabla|
+
+## 3.2 Script
