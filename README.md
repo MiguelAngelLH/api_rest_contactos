@@ -20,8 +20,11 @@ para este ejemplo se utilizara el gestor de bases de datos[SQLITE3](https://sqli
 
 ## 3.2 Script
 CREATE TABLE contactos (
+
 id_contacto INT PRIMARY KEY,
+
 nombre VARCHAR (100) NOT NULL,
+
 primer_apellido VARCHAR (50) NOT NULL,
 segundo_apellido VARCHAR (50) NOT NULL,
 email VARCHAR (100) NOT NULL,
