@@ -68,7 +68,7 @@ CREATE TABLE contactos (
 |Response Type|json|
 |Response|{"response":"V1" PATCH:"contactos"datatime":"25/09/23 17:16:15"}|
 |Curl|curl -X PATCH https://localhost:8000/contactos/123 -d {"email":"modificacion@gmail.com"}|
-|Status Code (error)|400 Bad Raquest|
+|Status Code (error)|404 Bad Raquest|
 |Response Type(error)|application/json|
 |Response (error)|{"error":"Changes could not be applied"}|
 
