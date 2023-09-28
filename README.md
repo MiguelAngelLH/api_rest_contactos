@@ -27,7 +27,7 @@ nombre VARCHAR (100) NOT NULL,
 primer_apellido VARCHAR (50) NOT NULL,
 
 
-4. Desing Document
+## 4. Desing Document
 |--|--|
 |4.1 Metodo PUT|
 |Propiedad|Detalle|
